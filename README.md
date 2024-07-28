@@ -13,6 +13,7 @@ CREATE TABLE todo_table (
 
 ## Setup backend
 ### Install semua dependency dengan menjalankan: npm i
+### Sesuaikan password dan user postgre di todo-backend/index.js
 ### Jalankan server dengan menjalankan command: nodemon index
 
 ## Cara menggunakan program
