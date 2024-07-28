@@ -4,8 +4,8 @@ const cors = require("cors");
 
 const Pool = require("pg").Pool;
 const pool = new Pool({
-  user: "postgres",
-  password: "rootprk",
+  user: "yourPostgreUser",
+  password: "yourPostgrePassword",
   host: "localhost",
   port: 5432,
   database: "todo",
